@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "73736597110",
+    "firebase_url": "https://car-gestao.firebaseio.com",
+    "project_id": "car-gestao",
+    "storage_bucket": "car-gestao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73736597110:android:67cc98511da66eba",
+        "android_client_info": {
+          "package_name": "car99.club.gestao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73736597110-nnlrblrhc7sb9bb54iabmkb8bll3pa5m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUxc-lxeovCrExvV6sTlo_G-qosvV33Bo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
